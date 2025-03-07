@@ -38,13 +38,5 @@ Ejecuta el script con:
 python main.py
 ```
 
-## Estructura del Proyecto
-```
-├── imdb_classification.py  # Código principal del modelo
-├── main.py                 # Archivo para ejecutar el entrenamiento y predicción
-├── requirements.txt        # Dependencias del proyecto
-├── README.md               # Descripción del proyecto
-```
-
 ## Salida Esperada
 El código entrenará una red neuronal y mostrará la evolución de la pérdida y precisión del modelo. También imprimirá una predicción de ejemplo en el conjunto de prueba.
