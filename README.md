@@ -38,5 +38,14 @@ Ejecuta el script con:
 python main.py
 ```
 
+## Estructura del Repositorio
+```
+📂 binary_classification_NLP/
+├── 📂 src/                      # Código fuente
+│   ├── binary_classification_NLP.py # Script con la implementación de la red neuronal
+├── main.py                      # Punto de entrada para ejecutar el entrenamiento
+├── README.md                    # Este documento
+```
+
 ## Salida Esperada
 El código entrenará una red neuronal y mostrará la evolución de la pérdida y precisión del modelo. También imprimirá una predicción de ejemplo en el conjunto de prueba.
