@@ -45,6 +45,8 @@ python main.py
 │   ├── binary_classification_NLP.py # Script con la implementación de la red neuronal
 ├── main.py                      # Punto de entrada para ejecutar el entrenamiento
 ├── README.md                    # Este documento
+├── .gitignore                      
+├── requirements.txt                  
 ```
 
 ## Salida Esperada
